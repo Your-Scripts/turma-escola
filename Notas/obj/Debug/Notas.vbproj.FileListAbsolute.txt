@@ -1,0 +1,60 @@
+C:\Users\aluno\Desktop\Trabalho Pratico#3\Notas\Notas\bin\Debug\Notas.exe.config
+C:\Users\aluno\Desktop\Trabalho Pratico#3\Notas\Notas\bin\Debug\Notas.exe
+C:\Users\aluno\Desktop\Trabalho Pratico#3\Notas\Notas\bin\Debug\Notas.pdb
+C:\Users\aluno\Desktop\Trabalho Pratico#3\Notas\Notas\bin\Debug\Notas.xml
+C:\Users\aluno\Desktop\Trabalho Pratico#3\Notas\Notas\obj\Debug\Notas.vbprojAssemblyReference.cache
+C:\Users\aluno\Desktop\Trabalho Pratico#3\Notas\Notas\obj\Debug\Notas.Form1.resources
+C:\Users\aluno\Desktop\Trabalho Pratico#3\Notas\Notas\obj\Debug\Notas.Resources.resources
+C:\Users\aluno\Desktop\Trabalho Pratico#3\Notas\Notas\obj\Debug\Notas.vbproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Trabalho Pratico#3\Notas\Notas\obj\Debug\Notas.vbproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Trabalho Pratico#3\Notas\Notas\obj\Debug\Notas.exe
+C:\Users\aluno\Desktop\Trabalho Pratico#3\Notas\Notas\obj\Debug\Notas.xml
+C:\Users\aluno\Desktop\Trabalho Pratico#3\Notas\Notas\obj\Debug\Notas.pdb
+C:\Users\Diogo Marques\Desktop\Notas\Notas\bin\Debug\Notas.exe.config
+C:\Users\Diogo Marques\Desktop\Notas\Notas\bin\Debug\Notas.exe
+C:\Users\Diogo Marques\Desktop\Notas\Notas\bin\Debug\Notas.pdb
+C:\Users\Diogo Marques\Desktop\Notas\Notas\bin\Debug\Notas.xml
+C:\Users\Diogo Marques\Desktop\Notas\Notas\obj\Debug\Notas.vbprojAssemblyReference.cache
+C:\Users\Diogo Marques\Desktop\Notas\Notas\obj\Debug\Notas.Form1.resources
+C:\Users\Diogo Marques\Desktop\Notas\Notas\obj\Debug\Notas.Resources.resources
+C:\Users\Diogo Marques\Desktop\Notas\Notas\obj\Debug\Notas.vbproj.GenerateResource.cache
+C:\Users\Diogo Marques\Desktop\Notas\Notas\obj\Debug\Notas.vbproj.CoreCompileInputs.cache
+C:\Users\Diogo Marques\Desktop\Notas\Notas\obj\Debug\Notas.exe
+C:\Users\Diogo Marques\Desktop\Notas\Notas\obj\Debug\Notas.xml
+C:\Users\Diogo Marques\Desktop\Notas\Notas\obj\Debug\Notas.pdb
+C:\Users\Utilizador\Desktop\Trabalhos\Notas\Notas\bin\Debug\Notas.exe.config
+C:\Users\Utilizador\Desktop\Trabalhos\Notas\Notas\bin\Debug\Notas.exe
+C:\Users\Utilizador\Desktop\Trabalhos\Notas\Notas\bin\Debug\Notas.pdb
+C:\Users\Utilizador\Desktop\Trabalhos\Notas\Notas\bin\Debug\Notas.xml
+C:\Users\Utilizador\Desktop\Trabalhos\Notas\Notas\obj\Debug\Notas.vbprojAssemblyReference.cache
+C:\Users\Utilizador\Desktop\Trabalhos\Notas\Notas\obj\Debug\Notas.Form1.resources
+C:\Users\Utilizador\Desktop\Trabalhos\Notas\Notas\obj\Debug\Notas.Resources.resources
+C:\Users\Utilizador\Desktop\Trabalhos\Notas\Notas\obj\Debug\Notas.vbproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\Trabalhos\Notas\Notas\obj\Debug\Notas.vbproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\Trabalhos\Notas\Notas\obj\Debug\Notas.exe
+C:\Users\Utilizador\Desktop\Trabalhos\Notas\Notas\obj\Debug\Notas.xml
+C:\Users\Utilizador\Desktop\Trabalhos\Notas\Notas\obj\Debug\Notas.pdb
+E:\ES_10ano\Engenharia de Software\Notas Finais\Notas\bin\Debug\Notas.exe.config
+E:\ES_10ano\Engenharia de Software\Notas Finais\Notas\bin\Debug\Notas.exe
+E:\ES_10ano\Engenharia de Software\Notas Finais\Notas\bin\Debug\Notas.pdb
+E:\ES_10ano\Engenharia de Software\Notas Finais\Notas\bin\Debug\Notas.xml
+E:\ES_10ano\Engenharia de Software\Notas Finais\Notas\obj\Debug\Notas.Form1.resources
+E:\ES_10ano\Engenharia de Software\Notas Finais\Notas\obj\Debug\Notas.Resources.resources
+E:\ES_10ano\Engenharia de Software\Notas Finais\Notas\obj\Debug\Notas.vbproj.GenerateResource.cache
+E:\ES_10ano\Engenharia de Software\Notas Finais\Notas\obj\Debug\Notas.vbproj.CoreCompileInputs.cache
+E:\ES_10ano\Engenharia de Software\Notas Finais\Notas\obj\Debug\Notas.exe
+E:\ES_10ano\Engenharia de Software\Notas Finais\Notas\obj\Debug\Notas.xml
+E:\ES_10ano\Engenharia de Software\Notas Finais\Notas\obj\Debug\Notas.pdb
+D:\ES_10ano\Engenharia de Software\Notas Finais\Notas\bin\Debug\Notas.exe.config
+D:\ES_10ano\Engenharia de Software\Notas Finais\Notas\bin\Debug\Notas.exe
+D:\ES_10ano\Engenharia de Software\Notas Finais\Notas\bin\Debug\Notas.pdb
+D:\ES_10ano\Engenharia de Software\Notas Finais\Notas\bin\Debug\Notas.xml
+D:\ES_10ano\Engenharia de Software\Notas Finais\Notas\obj\Debug\Notas.vbprojAssemblyReference.cache
+D:\ES_10ano\Engenharia de Software\Notas Finais\Notas\obj\Debug\Notas.Form1.resources
+D:\ES_10ano\Engenharia de Software\Notas Finais\Notas\obj\Debug\Notas.Resources.resources
+D:\ES_10ano\Engenharia de Software\Notas Finais\Notas\obj\Debug\Notas.vbproj.GenerateResource.cache
+D:\ES_10ano\Engenharia de Software\Notas Finais\Notas\obj\Debug\Notas.vbproj.CoreCompileInputs.cache
+D:\ES_10ano\Engenharia de Software\Notas Finais\Notas\obj\Debug\Notas.exe
+D:\ES_10ano\Engenharia de Software\Notas Finais\Notas\obj\Debug\Notas.xml
+D:\ES_10ano\Engenharia de Software\Notas Finais\Notas\obj\Debug\Notas.pdb
+E:\ES_10ano\Engenharia de Software\Notas Finais\Notas\obj\Debug\Notas.vbproj.AssemblyReference.cache
