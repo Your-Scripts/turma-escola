@@ -1,4 +1,3 @@
-```readme
 # Turma Escola
 
 ## :rocket: Technology
@@ -16,4 +15,4 @@ This project was developed in 12/03/2019.
 
 This project uses the license [MIT][mit]. [LICENSE](https://github.com/Your-Scripts/turma-escola/blob/master/LICENSE)
 
-[mit]:https://opensource.org/licenses/MIT```
+[mit]:https://opensource.org/licenses/MIT
